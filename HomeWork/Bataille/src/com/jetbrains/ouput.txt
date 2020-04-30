@@ -1,0 +1,428 @@
+player 1 plays Card is For of Clubs value is 4
+player 2 plays Card is Seven of Spades value is 7
+player 2 wins the round
+Player 1 has: 25 Player 2 has: 27 total: 52
+player 1 plays Card is Three of Hearts value is 3
+player 2 plays Card is Nine of Spades value is 9
+player 2 wins the round
+Player 1 has: 24 Player 2 has: 28 total: 52
+player 1 plays Card is Jack of Diamonds value is 11
+player 2 plays Card is Eight of Spades value is 8
+player 1 wins the round
+Player 1 has: 25 Player 2 has: 27 total: 52
+player 1 plays Card is Eight of Diamonds value is 8
+player 2 plays Card is Two of Spades value is 2
+player 1 wins the round
+Player 1 has: 26 Player 2 has: 26 total: 52
+player 1 plays Card is Queen of Clubs value is 12
+player 2 plays Card is Five of Hearts value is 5
+player 1 wins the round
+Player 1 has: 27 Player 2 has: 25 total: 52
+player 1 plays Card is King of Spades value is 13
+player 2 plays Card is Ten of Diamonds value is 10
+player 1 wins the round
+Player 1 has: 28 Player 2 has: 24 total: 52
+player 1 plays Card is Seven of Clubs value is 7
+player 2 plays Card is Five of Spades value is 5
+player 1 wins the round
+Player 1 has: 29 Player 2 has: 23 total: 52
+player 1 plays Card is Five of Diamonds value is 5
+player 2 plays Card is Ten of Clubs value is 10
+player 2 wins the round
+Player 1 has: 28 Player 2 has: 24 total: 52
+player 1 plays Card is Six of Spades value is 6
+player 2 plays Card is King of Hearts value is 13
+player 2 wins the round
+Player 1 has: 27 Player 2 has: 25 total: 52
+player 1 plays Card is Six of Clubs value is 6
+player 2 plays Card is For of Spades value is 4
+player 1 wins the round
+Player 1 has: 28 Player 2 has: 24 total: 52
+player 1 plays Card is Three of Spades value is 3
+player 2 plays Card is Jack of Clubs value is 11
+player 2 wins the round
+Player 1 has: 27 Player 2 has: 25 total: 52
+player 1 plays Card is For of Diamonds value is 4
+player 2 plays Card is Queen of Spades value is 12
+player 2 wins the round
+Player 1 has: 26 Player 2 has: 26 total: 52
+player 1 plays Card is Three of Diamonds value is 3
+player 2 plays Card is Two of Diamonds value is 2
+player 1 wins the round
+Player 1 has: 27 Player 2 has: 25 total: 52
+player 1 plays Card is Eight of Hearts value is 8
+player 2 plays Card is Ten of Spades value is 10
+player 2 wins the round
+Player 1 has: 26 Player 2 has: 26 total: 52
+player 1 plays Card is Six of Diamonds value is 6
+player 2 plays Card is Queen of Diamonds value is 12
+player 2 wins the round
+Player 1 has: 25 Player 2 has: 27 total: 52
+player 1 plays Card is For of Hearts value is 4
+player 2 plays Card is Ace of Clubs value is 14
+player 2 wins the round
+Player 1 has: 24 Player 2 has: 28 total: 52
+player 1 plays Card is Six of Hearts value is 6
+player 2 plays Card is Nine of Diamonds value is 9
+player 2 wins the round
+Player 1 has: 23 Player 2 has: 29 total: 52
+player 1 plays Card is Three of Clubs value is 3
+player 2 plays Card is Two of Clubs value is 2
+player 1 wins the round
+Player 1 has: 24 Player 2 has: 28 total: 52
+player 1 plays Card is Ten of Hearts value is 10
+player 2 plays Card is Ace of Hearts value is 14
+player 2 wins the round
+Player 1 has: 23 Player 2 has: 29 total: 52
+player 1 plays Card is Ace of Diamonds value is 14
+player 2 plays Card is Ace of Spades value is 14
+war
+war card for player1 Card is xx
+war card for player2 Card is xx
+war card for player1 Card is xx
+war card for player2 Card is xx
+war card for player1 Card is xx
+war card for player2 Card is xx
+war card player1 Card is King of Diamonds value is 13
+war card player2 Card is Nine of Hearts value is 9
+player 1 wins the war round
+Player 1 has: 28 Player 2 has: 24 total: 52
+player 1 plays Card is Jack of Hearts value is 11
+player 2 plays Card is Eight of Clubs value is 8
+player 1 wins the round
+Player 1 has: 29 Player 2 has: 23 total: 52
+player 1 plays Card is King of Clubs value is 13
+player 2 plays Card is Jack of Spades value is 11
+player 1 wins the round
+Player 1 has: 30 Player 2 has: 22 total: 52
+player 1 plays Card is Jack of Diamonds value is 11
+player 2 plays Card is For of Clubs value is 4
+player 1 wins the round
+Player 1 has: 31 Player 2 has: 21 total: 52
+player 1 plays Card is Eight of Spades value is 8
+player 2 plays Card is Seven of Spades value is 7
+player 1 wins the round
+Player 1 has: 32 Player 2 has: 20 total: 52
+player 1 plays Card is Eight of Diamonds value is 8
+player 2 plays Card is Three of Hearts value is 3
+player 1 wins the round
+Player 1 has: 33 Player 2 has: 19 total: 52
+player 1 plays Card is Two of Spades value is 2
+player 2 plays Card is Nine of Spades value is 9
+player 2 wins the round
+Player 1 has: 32 Player 2 has: 20 total: 52
+player 1 plays Card is Queen of Clubs value is 12
+player 2 plays Card is Five of Diamonds value is 5
+player 1 wins the round
+Player 1 has: 33 Player 2 has: 19 total: 52
+player 1 plays Card is Five of Hearts value is 5
+player 2 plays Card is Ten of Clubs value is 10
+player 2 wins the round
+Player 1 has: 32 Player 2 has: 20 total: 52
+player 1 plays Card is King of Spades value is 13
+player 2 plays Card is Six of Spades value is 6
+player 1 wins the round
+Player 1 has: 33 Player 2 has: 19 total: 52
+player 1 plays Card is Ten of Diamonds value is 10
+player 2 plays Card is King of Hearts value is 13
+player 2 wins the round
+Player 1 has: 32 Player 2 has: 20 total: 52
+player 1 plays Card is Seven of Clubs value is 7
+player 2 plays Card is Three of Spades value is 3
+player 1 wins the round
+Player 1 has: 33 Player 2 has: 19 total: 52
+player 1 plays Card is Five of Spades value is 5
+player 2 plays Card is Jack of Clubs value is 11
+player 2 wins the round
+Player 1 has: 32 Player 2 has: 20 total: 52
+player 1 plays Card is Six of Clubs value is 6
+player 2 plays Card is For of Diamonds value is 4
+player 1 wins the round
+Player 1 has: 33 Player 2 has: 19 total: 52
+player 1 plays Card is For of Spades value is 4
+player 2 plays Card is Queen of Spades value is 12
+player 2 wins the round
+Player 1 has: 32 Player 2 has: 20 total: 52
+player 1 plays Card is Three of Diamonds value is 3
+player 2 plays Card is Eight of Hearts value is 8
+player 2 wins the round
+Player 1 has: 31 Player 2 has: 21 total: 52
+player 1 plays Card is Two of Diamonds value is 2
+player 2 plays Card is Ten of Spades value is 10
+player 2 wins the round
+Player 1 has: 30 Player 2 has: 22 total: 52
+player 1 plays Card is Three of Clubs value is 3
+player 2 plays Card is Six of Diamonds value is 6
+player 2 wins the round
+Player 1 has: 29 Player 2 has: 23 total: 52
+player 1 plays Card is Two of Clubs value is 2
+player 2 plays Card is Queen of Diamonds value is 12
+player 2 wins the round
+Player 1 has: 28 Player 2 has: 24 total: 52
+player 1 plays Card is Ace of Diamonds value is 14
+player 2 plays Card is For of Hearts value is 4
+player 1 wins the round
+Player 1 has: 29 Player 2 has: 23 total: 52
+player 1 plays Card is Ace of Spades value is 14
+player 2 plays Card is Ace of Clubs value is 14
+war
+war card for player1 Card is xx
+war card for player2 Card is xx
+war card for player1 Card is xx
+war card for player2 Card is xx
+war card for player1 Card is xx
+war card for player2 Card is xx
+war card player1 Card is Five of Clubs value is 5
+war card player2 Card is Ace of Hearts value is 14
+player 1 wins the war round
+Player 1 has: 34 Player 2 has: 18 total: 52
+player 1 plays Card is Jack of Hearts value is 11
+player 2 plays Card is Two of Spades value is 2
+player 1 wins the round
+Player 1 has: 35 Player 2 has: 17 total: 52
+player 1 plays Card is Eight of Clubs value is 8
+player 2 plays Card is Nine of Spades value is 9
+player 2 wins the round
+Player 1 has: 34 Player 2 has: 18 total: 52
+player 1 plays Card is King of Diamonds value is 13
+player 2 plays Card is Five of Hearts value is 5
+player 1 wins the round
+Player 1 has: 35 Player 2 has: 17 total: 52
+player 1 plays Card is Nine of Hearts value is 9
+player 2 plays Card is Ten of Clubs value is 10
+player 2 wins the round
+Player 1 has: 34 Player 2 has: 18 total: 52
+player 1 plays Card is Jack of Hearts value is 11
+player 2 plays Card is Ten of Diamonds value is 10
+player 1 wins the round
+Player 1 has: 35 Player 2 has: 17 total: 52
+player 1 plays Card is Eight of Clubs value is 8
+player 2 plays Card is King of Hearts value is 13
+player 2 wins the round
+Player 1 has: 34 Player 2 has: 18 total: 52
+player 1 plays Card is King of Clubs value is 13
+player 2 plays Card is Five of Spades value is 5
+player 1 wins the round
+Player 1 has: 35 Player 2 has: 17 total: 52
+player 1 plays Card is Jack of Spades value is 11
+player 2 plays Card is Jack of Clubs value is 11
+war
+war card for player1 Card is xx
+war card for player2 Card is xx
+war card for player1 Card is xx
+war card for player2 Card is xx
+war card for player1 Card is xx
+war card for player2 Card is xx
+war card player1 Card is Seven of Spades value is 7
+war card player2 Card is Eight of Hearts value is 8
+player 1 wins the war round
+Player 1 has: 40 Player 2 has: 12 total: 52
+player 1 plays Card is Eight of Diamonds value is 8
+player 2 plays Card is Two of Diamonds value is 2
+player 1 wins the round
+Player 1 has: 41 Player 2 has: 11 total: 52
+player 1 plays Card is Three of Hearts value is 3
+player 2 plays Card is Ten of Spades value is 10
+player 2 wins the round
+Player 1 has: 40 Player 2 has: 12 total: 52
+player 1 plays Card is Queen of Clubs value is 12
+player 2 plays Card is Three of Clubs value is 3
+player 1 wins the round
+Player 1 has: 41 Player 2 has: 11 total: 52
+player 1 plays Card is Five of Diamonds value is 5
+player 2 plays Card is Six of Diamonds value is 6
+player 2 wins the round
+Player 1 has: 40 Player 2 has: 12 total: 52
+player 1 plays Card is King of Spades value is 13
+player 2 plays Card is Two of Clubs value is 2
+player 1 wins the round
+Player 1 has: 41 Player 2 has: 11 total: 52
+player 1 plays Card is Six of Spades value is 6
+player 2 plays Card is Queen of Diamonds value is 12
+player 2 wins the round
+Player 1 has: 40 Player 2 has: 12 total: 52
+player 1 plays Card is Seven of Clubs value is 7
+player 2 plays Card is Eight of Clubs value is 8
+player 2 wins the round
+Player 1 has: 39 Player 2 has: 13 total: 52
+player 1 plays Card is Three of Spades value is 3
+player 2 plays Card is Nine of Spades value is 9
+player 2 wins the round
+Player 1 has: 38 Player 2 has: 14 total: 52
+player 1 plays Card is Six of Clubs value is 6
+player 2 plays Card is Nine of Hearts value is 9
+player 2 wins the round
+Player 1 has: 37 Player 2 has: 15 total: 52
+player 1 plays Card is For of Diamonds value is 4
+player 2 plays Card is Ten of Clubs value is 10
+player 2 wins the round
+Player 1 has: 36 Player 2 has: 16 total: 52
+player 1 plays Card is Ace of Diamonds value is 14
+player 2 plays Card is Eight of Clubs value is 8
+player 1 wins the round
+Player 1 has: 37 Player 2 has: 15 total: 52
+player 1 plays Card is For of Hearts value is 4
+player 2 plays Card is King of Hearts value is 13
+player 2 wins the round
+Player 1 has: 36 Player 2 has: 16 total: 52
+player 1 plays Card is Ace of Spades value is 14
+player 2 plays Card is Three of Hearts value is 3
+player 1 wins the round
+Player 1 has: 37 Player 2 has: 15 total: 52
+player 1 plays Card is Ace of Clubs value is 14
+player 2 plays Card is Ten of Spades value is 10
+player 1 wins the round
+Player 1 has: 38 Player 2 has: 14 total: 52
+player 1 plays Card is Seven of Hearts value is 7
+player 2 plays Card is Five of Diamonds value is 5
+player 1 wins the round
+Player 1 has: 39 Player 2 has: 13 total: 52
+player 1 plays Card is Six of Hearts value is 6
+player 2 plays Card is Six of Diamonds value is 6
+war
+war card for player1 Card is xx
+war card for player2 Card is xx
+war card for player1 Card is xx
+war card for player2 Card is xx
+war card for player1 Card is xx
+war card for player2 Card is xx
+war card player1 Card is Two of Spades value is 2
+war card player2 Card is Eight of Clubs value is 8
+player 1 wins the war round
+Player 1 has: 44 Player 2 has: 8 total: 52
+player 1 plays Card is Five of Clubs value is 5
+player 2 plays Card is Three of Spades value is 3
+player 1 wins the round
+Player 1 has: 45 Player 2 has: 7 total: 52
+player 1 plays Card is Ace of Hearts value is 14
+player 2 plays Card is Nine of Spades value is 9
+player 1 wins the round
+Player 1 has: 46 Player 2 has: 6 total: 52
+player 1 plays Card is Jack of Hearts value is 11
+player 2 plays Card is Six of Clubs value is 6
+player 1 wins the round
+Player 1 has: 47 Player 2 has: 5 total: 52
+player 1 plays Card is Two of Spades value is 2
+player 2 plays Card is Nine of Hearts value is 9
+player 2 wins the round
+Player 1 has: 46 Player 2 has: 6 total: 52
+player 1 plays Card is King of Diamonds value is 13
+player 2 plays Card is For of Diamonds value is 4
+player 1 wins the round
+Player 1 has: 47 Player 2 has: 5 total: 52
+player 1 plays Card is Five of Hearts value is 5
+player 2 plays Card is Ten of Clubs value is 10
+player 2 wins the round
+Player 1 has: 46 Player 2 has: 6 total: 52
+player 1 plays Card is Jack of Hearts value is 11
+player 2 plays Card is For of Hearts value is 4
+player 1 wins the round
+Player 1 has: 47 Player 2 has: 5 total: 52
+player 1 plays Card is Ten of Diamonds value is 10
+player 2 plays Card is King of Hearts value is 13
+player 2 wins the round
+Player 1 has: 46 Player 2 has: 6 total: 52
+player 1 plays Card is King of Clubs value is 13
+player 2 plays Card is Two of Spades value is 2
+player 1 wins the round
+Player 1 has: 47 Player 2 has: 5 total: 52
+player 1 plays Card is Five of Spades value is 5
+player 2 plays Card is Nine of Hearts value is 9
+player 2 wins the round
+Player 1 has: 46 Player 2 has: 6 total: 52
+player 1 plays Card is Jack of Spades value is 11
+player 2 plays Card is Five of Hearts value is 5
+player 1 wins the round
+Player 1 has: 47 Player 2 has: 5 total: 52
+player 1 plays Card is Jack of Clubs value is 11
+player 2 plays Card is Ten of Clubs value is 10
+player 1 wins the round
+Player 1 has: 48 Player 2 has: 4 total: 52
+player 1 plays Card is Jack of Diamonds value is 11
+player 2 plays Card is Ten of Diamonds value is 10
+player 1 wins the round
+Player 1 has: 49 Player 2 has: 3 total: 52
+player 1 plays Card is For of Spades value is 4
+player 2 plays Card is King of Hearts value is 13
+player 2 wins the round
+Player 1 has: 48 Player 2 has: 4 total: 52
+player 1 plays Card is Eight of Spades value is 8
+player 2 plays Card is Five of Spades value is 5
+player 1 wins the round
+Player 1 has: 49 Player 2 has: 3 total: 52
+player 1 plays Card is Three of Diamonds value is 3
+player 2 plays Card is Nine of Hearts value is 9
+player 2 wins the round
+Player 1 has: 48 Player 2 has: 4 total: 52
+player 1 plays Card is Eight of Diamonds value is 8
+player 2 plays Card is For of Spades value is 4
+player 1 wins the round
+Player 1 has: 49 Player 2 has: 3 total: 52
+player 1 plays Card is Two of Diamonds value is 2
+player 2 plays Card is King of Hearts value is 13
+player 2 wins the round
+Player 1 has: 48 Player 2 has: 4 total: 52
+player 1 plays Card is Seven of Spades value is 7
+player 2 plays Card is Three of Diamonds value is 3
+player 1 wins the round
+Player 1 has: 49 Player 2 has: 3 total: 52
+player 1 plays Card is Eight of Hearts value is 8
+player 2 plays Card is Nine of Hearts value is 9
+player 2 wins the round
+Player 1 has: 48 Player 2 has: 4 total: 52
+player 1 plays Card is Eight of Diamonds value is 8
+player 2 plays Card is Two of Diamonds value is 2
+player 1 wins the round
+Player 1 has: 49 Player 2 has: 3 total: 52
+player 1 plays Card is Two of Diamonds value is 2
+player 2 plays Card is King of Hearts value is 13
+player 2 wins the round
+Player 1 has: 48 Player 2 has: 4 total: 52
+player 1 plays Card is Queen of Clubs value is 12
+player 2 plays Card is Eight of Hearts value is 8
+player 1 wins the round
+Player 1 has: 49 Player 2 has: 3 total: 52
+player 1 plays Card is Three of Clubs value is 3
+player 2 plays Card is Nine of Hearts value is 9
+player 2 wins the round
+Player 1 has: 48 Player 2 has: 4 total: 52
+player 1 plays Card is King of Spades value is 13
+player 2 plays Card is Two of Diamonds value is 2
+player 1 wins the round
+Player 1 has: 49 Player 2 has: 3 total: 52
+player 1 plays Card is Two of Clubs value is 2
+player 2 plays Card is King of Hearts value is 13
+player 2 wins the round
+Player 1 has: 48 Player 2 has: 4 total: 52
+player 1 plays Card is Ace of Diamonds value is 14
+player 2 plays Card is Three of Clubs value is 3
+player 1 wins the round
+Player 1 has: 49 Player 2 has: 3 total: 52
+player 1 plays Card is Eight of Clubs value is 8
+player 2 plays Card is Nine of Hearts value is 9
+player 2 wins the round
+Player 1 has: 48 Player 2 has: 4 total: 52
+player 1 plays Card is Ace of Spades value is 14
+player 2 plays Card is Two of Clubs value is 2
+player 1 wins the round
+Player 1 has: 49 Player 2 has: 3 total: 52
+player 1 plays Card is Three of Hearts value is 3
+player 2 plays Card is King of Hearts value is 13
+player 2 wins the round
+Player 1 has: 48 Player 2 has: 4 total: 52
+player 1 plays Card is Ace of Clubs value is 14
+player 2 plays Card is Eight of Clubs value is 8
+player 1 wins the round
+Player 1 has: 49 Player 2 has: 3 total: 52
+player 1 plays Card is Ten of Spades value is 10
+player 2 plays Card is Nine of Hearts value is 9
+player 1 wins the round
+Player 1 has: 50 Player 2 has: 2 total: 52
+player 1 plays Card is Seven of Hearts value is 7
+player 2 plays Card is Three of Hearts value is 3
+player 1 wins the round
+Player 1 has: 51 Player 2 has: 1 total: 52
+game over
+player 1 wins the game
+Win took 98 battles to win.
+Completed Satisfactorily

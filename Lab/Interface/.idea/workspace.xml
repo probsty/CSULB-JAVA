@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f4f9489-1a89-49a3-8d19-ccdf5f4d4439" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LabDepencyInversion/src/com/jetbrains/DependencyInversionDependentRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDepencyInversion/src/com/jetbrains/DependencyInversionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDepencyInversion/src/com/jetbrains/MyScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDepencyInversion/src/com/jetbrains/StringProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDepencyInversion/src/com/jetbrains/StringProcessorDependent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDepencyInversion/src/com/jetbrains/StringReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDepencyInversion/src/com/jetbrains/StringReaderImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDepencyInversion/src/com/jetbrains/StringWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDepencyInversion/src/com/jetbrains/StringWriterImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cecs277LabInterfacesAndPolymorphism/TestPolymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cecs277LabInterfacesAndPolymorphism/TestPolymorphism.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XgspsJ3ylo7BiplxsWj22FA7Qd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaLanguageCodingGuidelines.docx" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cecs277LabInterfacesAndPolymorphism" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestLab3">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cecs277LabInterfacesAndPolymorphism.InterfaceAndPolymorphismRunner" />
+      <module name="Lab3" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLab3" type="JUnit" factoryName="JUnit">
+      <module name="Lab3" />
+      <option name="PACKAGE_NAME" value="cecs277LabInterfacesAndPolymorphism" />
+      <option name="MAIN_CLASS_NAME" value="cecs277LabInterfacesAndPolymorphism.TestPolymorphism" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.TestLab3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f4f9489-1a89-49a3-8d19-ccdf5f4d4439" name="Default Changelist" comment="" />
+      <created>1581479258240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581479258240</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581486475712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581486475712" />
+    <state x="958" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1581484076641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1581484076641" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581486474156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1581486474156" />
+    <state x="877" y="104" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1581482645479">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="877" y="104" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1581482645479" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1582686587743">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582686587743" />
+    <state width="1493" height="59" key="GridCell.Tab.0.bottom" timestamp="1581655407179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="59" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581655407179" />
+    <state width="1493" height="59" key="GridCell.Tab.0.center" timestamp="1581655407179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="59" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581655407179" />
+    <state width="1493" height="59" key="GridCell.Tab.0.left" timestamp="1581655407179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="59" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581655407179" />
+    <state width="1493" height="59" key="GridCell.Tab.0.right" timestamp="1581655407179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="59" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581655407179" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582859807626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582859807626" />
+    <state x="883" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581482795243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="883" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1581482795243" />
+    <state x="904" y="118" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581482786768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="904" y="118" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1581482786768" />
+    <state x="209" y="32" key="new project wizard" timestamp="1582859821728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582859821728" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab3$Main.ic" NAME="Main Coverage Results" MODIFIED="1581486348941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

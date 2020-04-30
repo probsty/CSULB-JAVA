@@ -1,0 +1,53 @@
+Where i read my file: C:\Users\yprob\OneDrive\Bureau\CSULB\Java\JAVA-CSULB-\LabBasicFile\fileToRead.txt
+Where i write my file: C:\Users\yprob\OneDrive\Bureau\CSULB\Java\JAVA-CSULB-\LabBasicFile\output.txt
+Number of recors/lines: 40
+Number of words: 161
+Number of upper case: 149
+Number of lower case: 626
+Number of digit: 68
+Current words: 13
+Number of special characters: 43
+Number bytes: 1111
+Special character: | Ascii value: 124
+Special character: ® Ascii value: 174
+Special character: / Ascii value: 47
+Special character: / Ascii value: 47
+Special character: : Ascii value: 58
+Special character: ® Ascii value: 174
+Special character: ® Ascii value: 174
+Special character: . Ascii value: 46
+Special character: , Ascii value: 44
+Special character: , Ascii value: 44
+Special character: ( Ascii value: 40
+Special character: ) Ascii value: 41
+Special character: ® Ascii value: 174
+Special character: ® Ascii value: 174
+Special character: ' Ascii value: 39
+Special character: # Ascii value: 35
+Special character: # Ascii value: 35
+Special character: . Ascii value: 46
+Special character: . Ascii value: 46
+Special character: . Ascii value: 46
+Special character: - Ascii value: 45
+Special character: . Ascii value: 46
+Special character: ° Ascii value: 176
+Special character: # Ascii value: 35
+Special character: ® Ascii value: 174
+Special character: ‡ Ascii value: 8225
+Special character: ® Ascii value: 174
+Special character: - Ascii value: 45
+Special character: ‡ Ascii value: 8225
+Special character: ® Ascii value: 174
+Special character: ( Ascii value: 40
+Special character: - Ascii value: 45
+Special character: ) Ascii value: 41
+Special character: ‡ Ascii value: 8225
+Special character: ® Ascii value: 174
+Special character: ‡ Ascii value: 8225
+Special character: - Ascii value: 45
+Special character: ® Ascii value: 174
+Special character: ® Ascii value: 174
+Special character: & Ascii value: 38
+Special character: ® Ascii value: 174
+Special character: ‡ Ascii value: 8225
+Special character: ‡ Ascii value: 8225

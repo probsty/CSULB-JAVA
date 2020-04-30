@@ -1,0 +1,14 @@
+Before parallel sort
+Name: Yann Probst Age: 23
+Name: Julien Delane Age: 22
+Name: Cristiano Ronaldo Age: 35
+Name: Chuck Norris Age: 135
+After parallel sort
+Name: Julien Delane Age: 22
+Name: Chuck Norris Age: 135
+Name: Yann Probst Age: 23
+Name: Cristiano Ronaldo Age: 35
+53.75
+Completed Satisfactorily
+
+Process finished with exit code 0

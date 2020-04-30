@@ -1,0 +1,76 @@
+prompting you for persons
+Enter the person's last name:
+Blue
+Enter the person's first name:
+Berry
+0: BLACK
+1: BLONDE
+2: RED
+3: AUBURN
+4: SALT_AND_PEPPER
+5: GREY
+6: WHITE
+7: BALD
+Please enter the # corresponding to the hair color:
+1
+You entered color BLONDE
+Person's height in feet:
+5
+And the inches? For instance, 5'10' would be 10:
+11
+Their weight in pounds:
+132
+Name: Blue, Berry, Hair Color: BLONDE, Height:5'11, Weight #: 132
+Are we done here(Y/N):
+n
+0: BLACK
+1: BLONDE
+2: RED
+3: AUBURN
+4: SALT_AND_PEPPER
+5: GREY
+6: WHITE
+7: BALD
+Please enter the # corresponding to the hair color:
+5
+You entered color GREY
+Person's height in feet:
+10
+Height out of bounds!
+Person's height in feet:
+5
+And the inches? For instance, 5'10' would be 10:
+10
+Their weight in pounds:
+136
+Name: Blue, Berry, Hair Color: GREY, Height:5'10, Weight #: 136
+Are we done here(Y/N):
+n
+0: BLACK
+1: BLONDE
+2: RED
+3: AUBURN
+4: SALT_AND_PEPPER
+5: GREY
+6: WHITE
+7: BALD
+Please enter the # corresponding to the hair color:
+6
+You entered color WHITE
+Person's height in feet:
+5
+And the inches? For instance, 5'10' would be 10:
+9
+Their weight in pounds:
+150
+Name: Blue, Berry, Hair Color: WHITE, Height:5'9, Weight #: 150
+Are we done here(Y/N):
+y
+Skinniest version
+Name: Blue, Berry, Hair Color: BLONDE, Height:5'11, Weight #: 132
+What weight do you want to search for ?
+136
+Name: Blue, Berry, Hair Color: GREY, Height:5'10, Weight #: 136
+Completed satisfactorily
+
+Process finished with exit code 0

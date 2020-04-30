@@ -1,0 +1,5 @@
+Michigan 9.99
+Arizona 7.28
+North Carolina 10.49
+New York 19.45
+Ohio 11.69

@@ -1,0 +1,138 @@
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+s
+Show product
+Diet pepsi Value: 1,25 Quantity: 0
+Water Value: 1,00 Quantity: 0
+Mars bar Value: 0,65 Quantity: 0
+M&ms Value: 0,65 Quantity: 0
+Popcorn Value: 1,50 Quantity: 0
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+avev
+Please, specify a valid input
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+a
+Add product
+Diet pepsi Value: 1,25 Quantity: 0
+Water Value: 1,00 Quantity: 0
+Mars bar Value: 0,65 Quantity: 0
+M&ms Value: 0,65 Quantity: 0
+Popcorn Value: 1,50 Quantity: 0
+WaTEr
+How many of water are you adding?-->r
+Accept only digit number
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+a
+Add product
+Diet pepsi Value: 1,25 Quantity: 0
+Water Value: 1,00 Quantity: 0
+Mars bar Value: 0,65 Quantity: 0
+M&ms Value: 0,65 Quantity: 0
+Popcorn Value: 1,50 Quantity: 0
+WaTER
+How many of water are you adding?-->4
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+s
+Show product
+Diet pepsi Value: 1,25 Quantity: 0
+Water Value: 1,00 Quantity: 4
+Mars bar Value: 0,65 Quantity: 0
+M&ms Value: 0,65 Quantity: 0
+Popcorn Value: 1,50 Quantity: 0
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+i
+Insert coin
+Penny Value: 0,01 Quantity: 0
+Nickel Value: 0,05 Quantity: 0
+Dime Value: 0,10 Quantity: 0
+Quarter Value: 0,25 Quantity: 0
+Half dollar Value: 0,50 Quantity: 0
+Dollar Value: 1,00 Quantity: 0
+egeb
+We don't take fake money
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+i
+Insert coin
+Penny Value: 0,01 Quantity: 0
+Nickel Value: 0,05 Quantity: 0
+Dime Value: 0,10 Quantity: 0
+Quarter Value: 0,25 Quantity: 0
+Half dollar Value: 0,50 Quantity: 0
+Dollar Value: 1,00 Quantity: 0
+dollar
+You have put: 1,00 into the machine.
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+i
+Insert coin
+Penny Value: 0,01 Quantity: 0
+Nickel Value: 0,05 Quantity: 0
+Dime Value: 0,10 Quantity: 0
+Quarter Value: 0,25 Quantity: 0
+Half dollar Value: 0,50 Quantity: 0
+Dollar Value: 1,00 Quantity: 0
+nickel
+You have put: 1,05 into the machine.
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+i
+Insert coin
+Penny Value: 0,01 Quantity: 0
+Nickel Value: 0,05 Quantity: 0
+Dime Value: 0,10 Quantity: 0
+Quarter Value: 0,25 Quantity: 0
+Half dollar Value: 0,50 Quantity: 0
+Dollar Value: 1,00 Quantity: 0
+dollar
+You have put: 2,05 into the machine.
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+b
+Buy
+Diet pepsi Value: 1,25 Quantity: 0
+Water Value: 1,00 Quantity: 4
+Mars bar Value: 0,65 Quantity: 0
+M&ms Value: 0,65 Quantity: 0
+Popcorn Value: 1,50 Quantity: 0
+fresv
+Unknown Drink
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+b
+Buy
+Diet pepsi Value: 1,25 Quantity: 0
+Water Value: 1,00 Quantity: 4
+Mars bar Value: 0,65 Quantity: 0
+M&ms Value: 0,65 Quantity: 0
+Popcorn Value: 1,50 Quantity: 0
+popCORN
+Sorry, we are fresh out of popcorn Value: 1,50 Quantity: 0
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+b
+Buy
+Diet pepsi Value: 1,25 Quantity: 0
+Water Value: 1,00 Quantity: 4
+Mars bar Value: 0,65 Quantity: 0
+M&ms Value: 0,65 Quantity: 0
+Popcorn Value: 1,50 Quantity: 0
+Water
+Purchasing a: water Value: 1,00 Quantity: 3
+Putting a: water Value: 1,00 Quantity: 3
+Putting a: dollar into the till
+Putting a: dollar into the till
+Putting a: nickel into the till
+Penny Value: 0,01 Quantity: 0
+Nickel Value: 0,05 Quantity: 1
+Dime Value: 0,10 Quantity: 0
+Quarter Value: 0,25 Quantity: 0
+Half dollar Value: 0,50 Quantity: 0
+Dollar Value: 1,00 Quantity: 2
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+s
+Show product
+Diet pepsi Value: 1,25 Quantity: 0
+Water Value: 1,00 Quantity: 3
+Mars bar Value: 0,65 Quantity: 0
+M&ms Value: 0,65 Quantity: 0
+Popcorn Value: 1,50 Quantity: 0
+S)how Products I)nsert Coin B)uy A)dd Product R)emove Coins Q)uit
+q
+Quit
+Completed satisfactorily
+
+Process finished with exit code 0

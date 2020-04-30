@@ -1,0 +1,7 @@
+Please enter the name of a file
+d
+File dont exist
+Please enter the name of a file
+Doubles.txt
+
+Process finished with exit code 0

@@ -1,0 +1,27 @@
+Drawing a shape of color: Green
+Drawing a shape of line weight: light
+Drawing a shape of color: Blue Circle - centered on: 3.0, 4.0 of radius: 5.0
+Drawing a circle.
+toString of the above object:
+Fill color: Green for shape: Line weight: light for shape: Fill color: Blue for shape: Circle - centered on: 3.0, 4.0 of radius: 5.0
+****************
+
+Drawing a shape of color: Purple
+Drawing a shape of line weight: medium
+Drawing a shape of color: Green Square- Upper left at: -3.0, -4.0 length of each side: 6.0
+Drawing a square.
+toString of the above object:
+Fill color: Purple for shape: Line weight: medium for shape: Fill color: Green for shape: Square- Upper left at: -3.0, -4.0 length of each side: 6.0
+****************
+
+Drawing a shape of color: Puce
+Drawing a shape of line weight: heavy
+Drawing a shape of color: Black Rectangle- Upper left at: 10.0, 20.0 width: 5.0 length: 10.0
+Drawing a Rectangle.
+toString of the above object:
+Fill color: Puce for shape: Line weight: heavy for shape: Fill color: Black for shape: Rectangle- Upper left at: 10.0, 20.0 width: 5.0 length: 10.0
+****************
+
+Completed Satisfactorily
+
+Process finished with exit code 0

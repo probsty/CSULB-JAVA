@@ -1,0 +1,21 @@
+What was the original name of the Java language?
+1: *7
+2: Duke
+3: Oak
+4: Gosling
+Your answer: 3
+true
+In which country was the inventor of Java born?
+1: Australia
+2: Canada
+3: Denmark
+4: United States
+Your answer: 2
+true
+True (T) or False (F):
+It is possible to override every single method that you inherit from a supertype
+Your answer: F
+true
+Completed Satisfactorily
+
+Process finished with exit code 0

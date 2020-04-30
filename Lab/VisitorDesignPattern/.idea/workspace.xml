@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa414618-2ea0-4158-a95c-ad136edb643b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HomeWorkObserver/src/brokerageFirm/Agent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkObserver/src/brokerageFirm/Bid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkObserver/src/brokerageFirm/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkObserver/src/brokerageFirm/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkObserver/src/brokerageFirm/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkObserver/src/brokerageFirm/TransactionTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDecorator/src/console.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDecorator/src/decorator/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDecorator/src/decorator/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDecorator/src/decorator/DecoratorRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDecorator/src/decorator/FillColorDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDecorator/src/decorator/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDecorator/src/decorator/LineColorDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDecorator/src/decorator/LineWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDecorator/src/decorator/LineWeightDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDecorator/src/decorator/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDecorator/src/decorator/ShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabDecorator/src/decorator/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabSingleto/src/singleton/SingletonFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabSingleto/src/singleton/console.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Agreement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/DVD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/GameGenre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/GameRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/MovieGenre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/RentalVisitorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Visited.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/VisitorRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/visitor/console.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LabLinkedList/src/linkedList/LLIter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LabLinkedList/src/linkedList/LLIter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1afZIykG7NX4hCICQMlgqkzjRui" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HomeWorkObserver" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="visitor.VisitorRunner" />
+      <module name="LabVisitor" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa414618-2ea0-4158-a95c-ad136edb643b" name="Default Changelist" comment="" />
+      <created>1587128532907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587128532907</updated>
+      <workItem from="1587128536861" duration="1195000" />
+      <workItem from="1587392174200" duration="600000" />
+      <workItem from="1587397773151" duration="2899000" />
+      <workItem from="1587410320835" duration="1758000" />
+      <workItem from="1587489790434" duration="3538000" />
+      <workItem from="1587547521067" duration="12638000" />
+      <workItem from="1587563819291" duration="32000" />
+      <workItem from="1587740436453" duration="711000" />
+      <workItem from="1587807063185" duration="622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587135717716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587135717716" />
+    <state x="2685" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1587556114215">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587556114215" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587135716065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1587135716065" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1587808097490">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587808097490" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1587563407104">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587563407104" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1587563407104">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587563407104" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1587563407104">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587563407104" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1587563407104">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587563407104" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1587400030683">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587400030683" />
+    <state x="2587" y="122" width="586" height="795" key="find.popup" timestamp="1587552588691">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2587" y="122" width="586" height="795" key="find.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587552588691" />
+    <state x="2262" y="140" key="new project wizard" timestamp="1587563848464">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="140" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1587563848464" />
+  </component>
+</project>

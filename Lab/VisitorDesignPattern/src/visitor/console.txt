@@ -1,0 +1,16 @@
+DVD - Name: Jurasic Park Released: 1993 Genre: ADVENTURE
+Game - Fast and Furiously Publication year: 2005 Rating: MATURE Genre: ROAD_RAGE
+DVD - Name: Indiana Jones and the Last Crusade Released: 1989 Genre: ADVENTURE
+DVD - Name: The Goonies Released: 1985 Genre: ADVENTURE
+Game - Star Wars 1st Class Publication year: 2012 Rating: TEEN Genre: SCIENCE_FICTION
+Game - They Came From Space Publication year: 2019 Rating: RATING_PENDING Genre: SCIENCE_FICTION
+Now for the statistics
+Average year published was 2000.5
+Counts for the Movies
+Genre: ADVENTURE came up: 3
+Counts for the Games
+Genre: ROAD_RAGE came up: 1
+Genre: SCIENCE_FICTION came up: 2
+Completed satisfactorily.
+
+Process finished with exit code 0
