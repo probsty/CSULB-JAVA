@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="090f2002-8bb1-4312-b20b-d1f506017b1d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/console.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/DecoratorRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/FillColorDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/GeometricObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/LineColorDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/LineWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/LineWeightDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/ShapeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decorator/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LabSingleto/src/singleton/SingletonFibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LabSingleto/src/singleton/console.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LabLinkedList/src/linkedList/LLIter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LabLinkedList/src/linkedList/LLIter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork/FinalProject/src/visitor/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork/FinalProject/src/visitor/Options.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork/FinalProject/src/visitor/RoachHotelSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork/FinalProject/src/visitor/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork/Bataille/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork/Bataille/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1aa6CSNMM9kFmM4Nh6gPoTpr4KM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -74,6 +65,8 @@
       <workItem from="1586961233868" duration="1061000" />
       <workItem from="1587118359902" duration="5679000" />
       <workItem from="1587128452704" duration="82000" />
+      <workItem from="1588512230492" duration="28000" />
+      <workItem from="1588512286066" duration="19000" />
     </task>
     <servers />
   </component>
