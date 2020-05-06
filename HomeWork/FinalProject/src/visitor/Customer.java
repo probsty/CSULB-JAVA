@@ -1,20 +1,51 @@
 package visitor;
 
 public class Customer {
-    String m_name;
-    int m_numberOfPersons;
-    int m_growRatePercentage;
+    String name;
+    int population;
+    double growthRate;
     Room m_room;
 
-    Customer(String _name, int _numberOfPersons, int _growRatePercentage) {
-        m_name = _name;
-        m_numberOfPersons = _numberOfPersons;
-        m_growRatePercentage = _growRatePercentage;
+
+    Customer() {
+        this.name = "default";
+        this.population = 0;
+        this.growthRate = 1.0;
+    }
+
+    Customer(String _name, int _numberOfPersons, double _growRatePercentage) {
+        this.name = _name;
+        this.population = _numberOfPersons;
+        this.growthRate = _growRatePercentage;
+    }
+
+    public String getName() {
+        return this.name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getPopulation() {
+        return this.population;
+    }
+
+    public void setPopulation(int population) {
+        this.population = population;
+    }
+
+    public double getGrowthRate() {
+        return this.growthRate;
+    }
+
+    public void setGrowthRate(double growthRate) {
+        this.growthRate = growthRate;
     }
 
     public void party() {
-        if (m_growRatePercentage != 0) {
-            m_numberOfPersons = m_numberOfPersons * m_growRatePercentage / 100;
+        if (growthRate != 0) {
+            population = (int) (population * growthRate / 100);
         }
     }
 }
